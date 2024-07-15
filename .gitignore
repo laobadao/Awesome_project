@@ -1,0 +1,5 @@
+hugging_face_transformers/google
+hugging_face_transformers/google/vit-base-patch16-224 
+pytorch_ptq_demo/data
+pytorch_ptq_demo/data/cifar-10-python.tar.gz
+pytorch_ptq_demo/data/cifar-10-python.tar.gz.back
